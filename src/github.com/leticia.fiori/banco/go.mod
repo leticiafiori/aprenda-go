@@ -1,3 +1,3 @@
-module remote-repo.com/username/repository
+module main
 
 go 1.19
